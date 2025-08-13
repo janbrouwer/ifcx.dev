@@ -1,9 +1,10 @@
 {
   "header": {
-    "id": "https://identifier.buildingsmart.org/uri/molio/cciconstruction/1.0",
-    "version": "ifcx_alpha",
-    "author": "authorname",
-    "timestamp": "time string"
+    "id": "https://identifier.buildingsmart.org/uri/molio/cciconstruction@1.0",
+    "ifcxVersion": "ifcx_alpha",
+    "dataVersion": "1.0.0",
+    "author": "CCI",
+    "timestamp": "2025-01-01"
   },
   "imports": [],
   "schemas": {
